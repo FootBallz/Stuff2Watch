@@ -1,5 +1,5 @@
-# Repository Bootstrapper
-## _Bootstrap a GIT repo for setting up a Kodi repository_
+# Stuff2Watch Repo
+## Kodi Repo
 
 _forked from BartOtten with the additions of:_
 
